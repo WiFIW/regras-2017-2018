@@ -38,6 +38,10 @@ GRUPO 01 contará com 06 (seis) times e o GRUPO 2 contará com 07 (sete) times.
 Os jogos ocorreram dentro do próprio grupo, 02 jogos por adversário
 onde ser classificarão os 04 (quatro) primeiros colocados de cada grupo que darão início a fase de mata a mata.
 
+No mata-mata **NÃO HÁ REGRA DE GOL FORA**.
+
+Em caso de empate no agregado após os dois jogos, serão jogadas quantas partidas forem necessárias para que saia um vencedor.
+
 [![N|Solid](https://github.com/WiFIW/regras-2017-2018/blob/master/copa.jpeg)
 
 
